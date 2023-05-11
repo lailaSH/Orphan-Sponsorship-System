@@ -1,3 +1,12 @@
+## About This Project
+Through this project, the process of sponsoring orphans within the association is correctly and completely represented from the first step (registration of orphan information) ending with the organization of the sponsorship mechanism for registered and accepted orphans, thus saving the time and effort required of employees in the manual process, and the human error will be reduced during the process of entering information, as well as facilitating its review and browsing.
+
+ the project includes a correct representation of the various aids provided by the association to registered orphans (health, educational, in kind, etc.).
+
+## Used Technologies
+PHP (laravel) , database(SQL) , JavaScript , Bootstrap
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
